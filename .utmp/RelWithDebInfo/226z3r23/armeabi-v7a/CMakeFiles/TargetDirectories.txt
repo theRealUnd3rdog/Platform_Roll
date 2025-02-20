@@ -1,0 +1,5 @@
+Z:/Unity Projects/PlatformRoll/.utmp/RelWithDebInfo/226z3r23/armeabi-v7a/CMakeFiles/edit_cache.dir
+Z:/Unity Projects/PlatformRoll/.utmp/RelWithDebInfo/226z3r23/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+Z:/Unity Projects/PlatformRoll/.utmp/RelWithDebInfo/226z3r23/armeabi-v7a/GameActivity/CMakeFiles/game.dir
+Z:/Unity Projects/PlatformRoll/.utmp/RelWithDebInfo/226z3r23/armeabi-v7a/GameActivity/CMakeFiles/edit_cache.dir
+Z:/Unity Projects/PlatformRoll/.utmp/RelWithDebInfo/226z3r23/armeabi-v7a/GameActivity/CMakeFiles/rebuild_cache.dir

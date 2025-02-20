@@ -1,0 +1,2 @@
+Z:\Unity Projects\PlatformRoll\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+Z:\Unity Projects\PlatformRoll\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
